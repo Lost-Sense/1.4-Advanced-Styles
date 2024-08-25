@@ -31,6 +31,7 @@ li {
   display: flex;
   flex-direction: column;
   width: 320px;
+  min-hieght: 800px;
   height: 100vh;
   background-color: white;
   box-shadow: 16px 0px 52px 0px rgba(14, 24, 80, 0.2);
